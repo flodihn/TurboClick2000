@@ -1,0 +1,18 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\gdb.exe",
+  "C_Cpp_Runner.makePath": "C:\\Program Files\\mingw-w64\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\make.exe",
+  "files.associations": {
+    "cctype": "cpp",
+    "cmath": "cpp",
+    "cstdarg": "cpp",
+    "cstdint": "cpp",
+    "cstdio": "cpp",
+    "cstdlib": "cpp",
+    "type_traits": "cpp",
+    "limits": "cpp",
+    "*.tcc": "cpp",
+    "typeinfo": "cpp"
+  }
+}
